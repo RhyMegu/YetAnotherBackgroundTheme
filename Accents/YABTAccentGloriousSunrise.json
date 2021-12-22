@@ -1,8 +1,10 @@
 {
     "manifest": {
         "name": "YABT Accent Glorious Sunrise",
-        "version": "1.0.0",
-        "author": "Rhy"
+        "version": "1.0.1",
+        "author": "Rhy#1752",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Accents\/YABTAccentGloriousSunrise.json",
+        "license": "MIT"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/921331500358696990\/yaat.jpg",

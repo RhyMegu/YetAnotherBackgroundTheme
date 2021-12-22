@@ -1,8 +1,10 @@
 {
     "manifest": {
         "name": "YABT Accent Mint Chutney",
-        "version": "1.0.0",
-        "author": "Rhy"
+        "version": "1.0.1",
+        "author": "Rhy#1752",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Accents\/YABTAccentMintChutney.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/922873729334267914\/Untitled9_20211221205911.png",

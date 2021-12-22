@@ -1,8 +1,10 @@
 {
     "manifest": {
         "name": "YABT Accent Serene Seas",
-        "version": "1.0.0",
-        "author": "Rhy"
+        "version": "1.0.1",
+        "author": "Rhy#1752",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Accents\/YABTAccentSereneSeas.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/923078874550648862\/seas.png",

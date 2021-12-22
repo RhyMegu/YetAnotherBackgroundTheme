@@ -1,8 +1,10 @@
 {
     "manifest": {
         "name": "YABT Accent Clear Skies",
-        "version": "1.0.0",
-        "author": "Rhy"
+        "version": "1.0.1",
+        "author": "Rhy#1752",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Accents\/YABTAccentClearSkies.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/919813293504352267\/922401113322450996\/dragon.png",
