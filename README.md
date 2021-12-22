@@ -7,8 +7,8 @@ This project was started because of my sheer hatred towards transparent themes. 
 This project aims to provide a template for transparent themes which is simple enough for anyone to edit and use, and provide a platform for them to share their themes.
 
 ## How to install themes?
-### Base Theme
+### [Base Themes](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Accents)
 [Install the dark base theme from this link](https://raw.githubusercontent.com/RhyMegu/YetAnotherBackgroundTheme/main/Base/YABTBaseDark.json) or, if available, install other base themes from [this link.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Base)
 
-### Accent Themes
+### [Accent Themes](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Accents)
 [Install accent themes from this repository](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Accents) or check issues for user-created themes.
