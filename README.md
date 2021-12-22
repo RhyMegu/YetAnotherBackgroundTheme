@@ -20,6 +20,6 @@ This project aims to provide a template for transparent themes which is simple e
 If you have made your own accent theme and want to share it for others to see, visit [this page.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Submission)
 
 ## Can I get my theme featured on this repo?
-Sure, if your repo is approved, it will be kept in the [user-created themes repo.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Submission) If your theme is really exceptional and unique enough, it might just be one of the few featured themes.
+Sure, if your repo is approved, it will be kept in the [user-created themes repo.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/userthemea) If your theme is really exceptional and unique enough, it might just be one of the few featured themes.
 
 ## Theme Previews![preview](https://github.com/RhyMegu/YetAnotherBackgroundTheme/blob/main/Resources/ezgif.com-gif-maker.gif?raw=true)
