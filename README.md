@@ -1,4 +1,5 @@
 # YetAnotherBackgroundTheme
+<img alt="Discord" src="https://img.shields.io/discord/811255666990907402?color=%f08a1d&label=Resource%20Server&logo=discord&logoColor=%f08a1d&style=for-the-badge">
 Yet Another Background Theme Project for Aliucord
 ![NA](https://github.com/RhyMegu/YetAnotherBackgroundTheme/blob/main/Resources/Title.png?raw=true)
 
