@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "name": "YABT Accent Template,
+        "version": "1.0.0",
+        "author": "Rhy"
+    },
+    "background": {
+        "url": <bglink>,
+        "overlay_alpha": <overlay>
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": <offdark>,
+        "accent": <accent>,
+        "mention_highlight": <highlight>
+    },
+    "colors": {
+        "brand": <accent>,
+        "brand_new_500": <accent>,
+        "uikit_btn_compound_color_selector_dark": <accent>,
+        "link": <accent>,
+        "link_500": <accent>,
+        "primary_dark_360": <channel>,
+        "uikit_btn_compound_color_selector_light": <offdark>,
+        "uikit_settings_item_text_color_light": <offdark>,
+        "abc_tint_switch_track": <switch>,
+        "primary_dark_200": <white>,
+        "white_500": <white>,
+        "primary_dark_300": <offlight>,
+        "primary_dark_400": <offlight>,
+        "uikit_settings_item_text_color_dark": <offlight>
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": <offlight>,
+        "ic_sidebar_notifications_off_dark_24dp": <offlight>,
+        "ic_sidebar_pins_off_dark_24dp": <offlight>,
+        "ic_sidebar_pins_on_dark_24dp": <offlight>,
+        "ic_thread": <offlight>
+    },
+    "raws": {}
+}

@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "name": "YABT Accent Serene Seas",
+        "version": "1.0.0",
+        "author": "Rhy"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/923078874550648862\/seas.png",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1713603385,
+        "accent": -11301958,
+        "mention_highlight": 650243747
+    },
+    "colors": {
+        "brand": -11301958,
+        "brand_new_500": -11301958,
+        "primary_dark_400": -236546863,
+        "primary_dark_360": -1418549017,
+        "uikit_btn_compound_color_selector_dark": -11301958,
+        "primary_dark_300": -236546863,
+        "uikit_btn_compound_color_selector_light": -1713603385,
+        "uikit_settings_item_text_color_dark": -236546863,
+        "uikit_settings_item_text_color_light": -1713603385,
+        "abc_tint_switch_track": -1595895339,
+        "link": -11301958,
+        "link_500": -11301958,
+        "primary_dark_200": -1114397,
+        "white_500": -1114397
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -236546863,
+        "ic_sidebar_notifications_off_dark_24dp": -236546863,
+        "ic_sidebar_pins_off_dark_24dp": -236546863,
+        "ic_sidebar_pins_on_dark_24dp": -236546863,
+        "ic_thread": -236546863
+    },
+    "raws": {}
+}

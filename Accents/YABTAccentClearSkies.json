@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "name": "YABT Accent Clear Skies",
+        "version": "1.0.0",
+        "author": "Rhy"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/919813293504352267\/922401113322450996\/dragon.png",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1728034169,
+        "accent": -16741185,
+        "mention_highlight": 653957318
+    },
+    "colors": {
+        "brand": -16741185,
+        "brand_new_500": -16741185,
+        "primary_dark_400": -247747621,
+        "primary_dark_360": -1420388635,
+        "uikit_btn_compound_color_selector_dark": -16741185,
+        "primary_dark_300": -247747621,
+        "uikit_btn_compound_color_selector_light": -1728034169,
+        "uikit_settings_item_text_color_dark": -247747621,
+        "uikit_settings_item_text_color_light": -1728034169,
+        "abc_tint_switch_track": -1609744262,
+        "link": -16741185,
+        "link_500": -16741185,
+        "primary_dark_200": -65794,
+        "white_500": -1644826
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -247747621,
+        "ic_sidebar_notifications_off_dark_24dp": -247747621,
+        "ic_sidebar_pins_off_dark_24dp": -247747621,
+        "ic_sidebar_pins_on_dark_24dp": -247747621,
+        "ic_thread": -247747621
+    },
+    "raws": {}
+}

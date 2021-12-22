@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "name": "YABT Accent Mint Chutney",
+        "version": "1.0.0",
+        "author": "Rhy"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/922873729334267914\/Untitled9_20211221205911.png",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1726590158,
+        "accent": -16740531,
+        "mention_highlight": 1207987259
+    },
+    "colors": {
+        "brand": -16740531,
+        "brand_new_500": -16740531,
+        "primary_dark_400": -242307685,
+        "primary_dark_360": -1417106537,
+        "uikit_btn_compound_color_selector_dark": -16740531,
+        "primary_dark_300": -242307685,
+        "uikit_btn_compound_color_selector_light": -1726590158,
+        "uikit_settings_item_text_color_dark": -242307685,
+        "uikit_settings_item_text_color_light": -1726590158,
+        "abc_tint_switch_track": -1609919402,
+        "link": -16740531,
+        "link_500": -16740531,
+        "primary_dark_200": -65794,
+        "white_500": -1644826
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -242307685,
+        "ic_sidebar_notifications_off_dark_24dp": -242307685,
+        "ic_sidebar_pins_off_dark_24dp": -242307685,
+        "ic_sidebar_pins_on_dark_24dp": -242307685,
+        "ic_thread": -242307685
+    },
+    "raws": {}
+}

@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "name": "YABT Accent Cherry Hills",
+        "version": "1.0.0",
+        "author": "Rhy"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/923073827737579550\/wall.png",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1720172418,
+        "accent": -1170847,
+        "mention_highlight": 654303341
+    },
+    "colors": {
+        "brand": -1170847,
+        "brand_new_500": -1170847,
+        "primary_dark_400": -235381907,
+        "primary_dark_360": -1414046563,
+        "uikit_btn_compound_color_selector_dark": -1170847,
+        "primary_dark_300": -235381907,
+        "uikit_btn_compound_color_selector_light": -1720172418,
+        "uikit_settings_item_text_color_dark": -235381907,
+        "uikit_settings_item_text_color_light": -1720172418,
+        "abc_tint_switch_track": -1597763481,
+        "link": -1170847,
+        "link_500": -1170847,
+        "primary_dark_200": -73247,
+        "white_500": -73247
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -235381907,
+        "ic_sidebar_notifications_off_dark_24dp": -235381907,
+        "ic_sidebar_pins_off_dark_24dp": -235381907,
+        "ic_sidebar_pins_on_dark_24dp": -235381907,
+        "ic_thread": -235381907
+    },
+    "raws": {}
+}
