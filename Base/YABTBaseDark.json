@@ -1,8 +1,10 @@
 {
     "manifest": {
         "name": "YABT Base Dark",
-        "version": "1.0.0",
-        "author": "Rhy"
+        "version": "1.0.1",
+        "author": "Rhy",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Base\/YABTBaseDark.json"
     },
     "background": {},
     "fonts": {},
