@@ -1,6 +1,6 @@
 # YetAnotherBackgroundTheme
 
-[![Support Server](https://img.shields.io/discord/923108420293373982.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/NQPsPbkenF)
+[![Support Server](https://img.shields.io/discord/9591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/NQPsPbkenF)
 Yet Another Background Theme Project for Aliucord
 ![NA](https://github.com/RhyMegu/YetAnotherBackgroundTheme/blob/main/Resources/Title.png?raw=true)
 
