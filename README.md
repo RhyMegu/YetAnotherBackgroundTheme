@@ -17,4 +17,4 @@ This project aims to provide a template for transparent themes which is simple e
 [Click this link to go the the templates repo.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Templates)
 
 ## How do I upload my own theme for others to see?
-If you have made your own accent theme and want to share it for others to see, visit [this page.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Submissions)
+If you have made your own accent theme and want to share it for others to see, visit [this page.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Submission)
