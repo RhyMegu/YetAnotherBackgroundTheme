@@ -3,7 +3,7 @@ Currently, there is no streamlined process to edit the templates to customize th
 
 ## Accent Template 
 ### Method 1
-Download this template, open it in themer and edit the color values as following:
+Download [this template](https://raw.githubusercontent.com/RhyMegu/YetAnotherBackgroundTheme/main/Templates/YABTAccentPremadeTemplate.json), open it in themer and edit the color values as following:
 | Color Value | Strings | Default Value | Recommended transparency |
 | :---: | :---: | :---: | :---: |
 | accent | accent, brand, brand_new_500, link, link_500, uikit_btn_compound_color_selector_dark | #FFFF0000 | FF |
