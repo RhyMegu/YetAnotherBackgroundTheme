@@ -14,4 +14,4 @@ This project aims to provide a template for transparent themes which is simple e
 [Install accent themes from this repository](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Accents) or check issues for user-created themes.
 
 ## How do I make my own themes?
-![Click this link to go the the templates repo.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Base)
+[Click this link to go the the templates repo.](https://github.com/RhyMegu/YetAnotherBackgroundTheme/tree/main/Base)
