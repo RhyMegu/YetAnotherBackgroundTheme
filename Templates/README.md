@@ -14,7 +14,7 @@ Download this template, open it in themer and edit the color values as following
 | channel | primary_dark_360 | #ABFF00FF | AB |
 | offlight | primary_dark_300, primary_dark_400, uikit_settings_item_text_color_dark, ic_thread, ic_sidebar_notifications_on_dark, ic_sidebar_notifications_off_dark, ic_sidebar_pins_on_dark, ic_sidebar_pins_off_dark | #F1FFFF00 | F1 |
 
-##Design Advice 
+## Design Advice 
 You can choose to follow this advice, but it is not compulsory. It's simply some tips to make your theme appear more coherent and stylistic.
 
 | Color Value | Advice |
