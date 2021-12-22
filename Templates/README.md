@@ -13,6 +13,7 @@ Download [this template](https://raw.githubusercontent.com/RhyMegu/YetAnotherBac
 | white | white_500, primary_dark_200 | #FFFFFFFF | FF |
 | channel | primary_dark_360 | #ABFF00FF | AB |
 | offlight | primary_dark_300, primary_dark_400, uikit_settings_item_text_color_dark, ic_thread, ic_sidebar_notifications_on_dark, ic_sidebar_notifications_off_dark, ic_sidebar_pins_on_dark, ic_sidebar_pins_off_dark | #F1FFFF00 | F1 |
+
 Replace the background with the image of your liking and set the blur value.
 Add an updater if you think you will keep updating your accent theme.
 
