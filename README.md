@@ -1,9 +1,10 @@
 # YetAnotherBackgroundTheme
-<p>
-![Discord](https://img.shields.io/discord/923108420293373982?color=%23f7704a&label=Resource%20Server&logo=discord&logoColor=%23ffffff&style=for-the-badge)
-</p>
+
 Yet Another Background Theme Project for Aliucord
 ![NA](https://github.com/RhyMegu/YetAnotherBackgroundTheme/blob/main/Resources/Title.png?raw=true)
+
+### Discord Server
+![Discord](https://img.shields.io/discord/923108420293373982?color=%23f7704a&label=Resource%20Server&logo=discord&logoColor=%23ffffff&style=for-the-badge)
 
 ## Description
 This project was started because of my sheer hatred towards transparent themes. They clog the themes feed, making actually good themes not visible and are generally low effort all around. So why not concentrate all those bad themes in one place?
