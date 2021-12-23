@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "name": "YABT Accent Purple Pastel",
+        "version": "1.0.1",
+        "author": "Rhy#1752",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Accents\/YABTAccentPurplePastel.json"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/917244146375344248\/922811602338725899\/Untitled8_20211221165317.png",
+        "overlay_alpha": 120
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1722139785,
+        "accent": -6529322,
+        "mention_highlight": 1266043042
+    },
+    "colors": {
+        "brand": -6529322,
+        "brand_new_500": -6529322,
+        "primary_dark_400": -240082753,
+        "primary_dark_360": -1414554432,
+        "uikit_btn_compound_color_selector_dark": -6529322,
+        "primary_dark_300": -240082753,
+        "uikit_btn_compound_color_selector_light": -1722139785,
+        "uikit_settings_item_text_color_dark": -240082753,
+        "uikit_settings_item_text_color_light": -1722139785,
+        "abc_tint_switch_track": -1600035368,
+        "link": -6529322,
+        "link_500": -6529322,
+        "primary_dark_200": -65794,
+        "white_500": -1644826
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -240082753,
+        "ic_sidebar_notifications_off_dark_24dp": -240082753,
+        "ic_sidebar_pins_off_dark_24dp": -240082753,
+        "ic_sidebar_pins_on_dark_24dp": -240082753,
+        "ic_thread": -240082753
+    },
+    "raws": {}
+}
