@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "name": "YABT Base Green",
+        "version": "1.0.0",
+        "author": "Rhy",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Base\/YABTBaseGreen.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "input_background": 1912602624,
+        "statusbar": 1460092958
+    },
+    "colors": {
+        "primary_dark_630": 386679838,
+        "primary_dark_700": 386877223,
+        "primary_dark_600": 369904425,
+        "primary_dark_900": 2030979103,
+        "primary_dark_800": -770688483,
+        "primary_dark_500": -1710536406,
+        "primary_dark_660": 1494108963,
+        "white_800": -1442840576,
+        "transparent": 3431493,
+        "primary_700": -1609672923
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

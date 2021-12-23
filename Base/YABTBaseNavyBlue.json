@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "name": "YABT Base Navy Blue",
+        "version": "1.0.0",
+        "author": "Rhy",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Base\/YABTBaseNavyBlue.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "input_background": 1912602624,
+        "statusbar": 1478302066
+    },
+    "colors": {
+        "primary_dark_630": 386470721,
+        "primary_dark_700": 386863696,
+        "primary_dark_600": 168365122,
+        "primary_dark_900": 2031493209,
+        "primary_dark_800": -770499250,
+        "primary_dark_500": -1710745252,
+        "primary_dark_660": 1493896501,
+        "white_800": -1442840576,
+        "transparent": 6052148,
+        "primary_700": -1609888173
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

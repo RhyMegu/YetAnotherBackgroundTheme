@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "name": "YABT Base Tangerine",
+        "version": "1.0.0",
+        "author": "Rhy",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Base\/YABTBaseTangerine.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "input_background": 1912602624,
+        "statusbar": 1398678280
+    },
+    "colors": {
+        "primary_dark_630": 390405893,
+        "primary_dark_700": 390079243,
+        "primary_dark_600": 172433418,
+        "primary_dark_900": 2034377222,
+        "primary_dark_800": -766696178,
+        "primary_dark_500": -1705367795,
+        "primary_dark_660": 1499081482,
+        "white_800": -1442840576,
+        "transparent": 6052148,
+        "primary_700": -1605359861
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

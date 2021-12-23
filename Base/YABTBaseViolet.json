@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "name": "YABT Base Violet",
+        "version": "1.0.0",
+        "author": "Rhy",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/YetAnotherBackgroundTheme\/main\/Base\/YABTBaseViolet.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "input_background": 1912602624,
+        "statusbar": 1984301913
+    },
+    "colors": {
+        "primary_dark_630": 389614158,
+        "primary_dark_700": 390532436,
+        "primary_dark_600": 171838291,
+        "primary_dark_900": 2033453906,
+        "primary_dark_800": -768340673,
+        "primary_dark_500": -1708260285,
+        "primary_dark_660": 1496648008,
+        "white_800": -1442840576,
+        "transparent": 6052148,
+        "primary_700": -1607202491
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
